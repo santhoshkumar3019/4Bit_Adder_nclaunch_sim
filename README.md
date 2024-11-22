@@ -112,7 +112,8 @@ Developed by :- DEEPAN.A
     
       
 	After this you can see the window like below 
-![Screenshot (118)](https://github.com/user-attachments/assets/b119c506-886b-435a-8225-2f1d0ebf97e1)
+![Screenshot 2024-11-22 115138](https://github.com/user-attachments/assets/b72f654e-4ea7-4da0-abad-18cac95abd2d)
+
 ### Fig 3:Invoke the Cadence Environment
 
 	To Launch Simulation tool 
